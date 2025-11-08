@@ -23,5 +23,5 @@ with a touch of my personal **interests and travel stories**.
 
 **Connect**
 - [LinkedIn](https://linkedin.com/in/subh-ghosh-351418145)
-- [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?hl=en&user=3gYi0OcAAAAJ&scilu=&scisig=AKwmTV4AAAAAaQ-XEc8ITOPBSN2G1OKlpRG78Hg&gmla=AKzYXQ1x87JaTZesQNh8DmizKnHzhW7sAIp5q7ifw__NQ7ezVw2Kbbo20FKP4-Spd3WGim2zVVnBt3tMdth2QrV_dIeMgD-0-7FhX6O1-BY&sciund=11533749645181655307))
-- [Email](ghoshdruk@gmail.com)
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=3gYi0OcAAAAJ&scilu=&scisig=AKwmTV4AAAAAaQ-XEc8ITOPBSN2G1OKlpRG78Hg&gmla=AKzYXQ1x87JaTZesQNh8DmizKnHzhW7sAIp5q7ifw__NQ7ezVw2Kbbo20FKP4-Spd3WGim2zVVnBt3tMdth2QrV_dIeMgD-0-7FhX6O1-BY&sciund=11533749645181655307)
+- [Email](mailto:ghoshdruk@gmail.com)
