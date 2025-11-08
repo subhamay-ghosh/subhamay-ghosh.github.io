@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-Hello! I’m **[Your Name]**, a [your profession or field] based in [your location].
+Hello! I’m **[Subhamay Ghosh]**, a [Consultant Anaesthetist] based in [Carmarthen, Wales, United Kingdom].
 
 This site showcases my **professional profile**, **research**, and **projects**,  
 with a touch of my personal **interests and travel stories**.
@@ -22,6 +22,6 @@ with a touch of my personal **interests and travel stories**.
 ---
 
 **Connect**
-- [LinkedIn](https://www.linkedin.com)
-- [Google Scholar](https://scholar.google.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://linkedin.com/in/subh-ghosh-351418145)
+- [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?hl=en&user=3gYi0OcAAAAJ&scilu=&scisig=AKwmTV4AAAAAaQ-XEc8ITOPBSN2G1OKlpRG78Hg&gmla=AKzYXQ1x87JaTZesQNh8DmizKnHzhW7sAIp5q7ifw__NQ7ezVw2Kbbo20FKP4-Spd3WGim2zVVnBt3tMdth2QrV_dIeMgD-0-7FhX6O1-BY&sciund=11533749645181655307))
+- [Email](ghoshdruk@gmail.com)
